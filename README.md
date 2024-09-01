@@ -10,7 +10,7 @@ Credit card fraud is a significant issue in the financial sector, leading to sub
 The dataset used in this project is a publicly available credit card transaction dataset. It contains anonymized features due to confidentiality issues and is highly imbalanced, with a very small percentage of transactions being fraudulent.
 
 - **Features:** The dataset includes various anonymized features such as V1, V2, ..., V28, and non-anonymized features like Amount and Time.
-- **Target:** The target variable is `Class`, where `1` represents a fraudulent transaction and `0` represents a non-fraudulent transaction.
+- **Target:** The target variable is Class , where 1  represents a fraudulent transaction and 0 represents a non-fraudulent transaction.
 
 **Modeling Approach**  
 The project uses several machine learning algorithms, including:
