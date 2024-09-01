@@ -11,12 +11,24 @@ The dataset used in this project is a publicly available credit card transaction
 
 Features: The dataset includes various anonymized features such as V1, V2, ..., V28, and non-anonymized features like Amount and Time.
 Target: The target variable is Class, where 1 represents a fraudulent transaction and 0 represents a non-fraudulent transaction.
-
 #Modeling Approach
 The project uses several machine learning algorithms, including:
-- Logistic Regression: A simple linear model to establish a baseline.
-- Random Forest: An ensemble method to improve accuracy and robustness.
-- Gradient Boosting: A powerful technique for handling imbalanced datasets.
+
+Logistic Regression: A simple linear model to establish a baseline.
+Random Forest: An ensemble method to improve accuracy and robustness.
+Gradient Boosting: A powerful technique for handling imbalanced datasets.
 
 #Conclusion
 The project successfully demonstrates the use of machine learning techniques to detect fraudulent credit card transactions. Future work may include improving the model's performance through advanced techniques such as deep learning, handling real-time data, and implementing the model in a production environment.
+
+
+
+
+
+
+
+
+
+
+
+
